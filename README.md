@@ -10,11 +10,11 @@ GitHub Advanced Security demonstration catalog for different Languages and Techn
 - [Go](https://github.com/advanced-security/demo-golang)
 - [Java](https://github.com/advanced-security/demo-java)
 - [JavaScript](https://github.com/advanced-security/demo-javascript)
-- Python
-- PHP
+- [Python](https://github.com/advanced-security/demo-python)
+- [PHP](https://github.com/advanced-security/demo-php)
 
 
 **Technologies:**
 
-- Docker
-- Terraform
+- [Docker](https://github.com/advanced-security/demo-docker)
+- [Terraform](https://github.com/advanced-security/demo-terraform)
