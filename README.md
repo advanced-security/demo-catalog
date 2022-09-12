@@ -9,7 +9,7 @@ GitHub Advanced Security demonstration catalog for different Languages and Techn
 - [CSharp](https://github.com/advanced-security/demo-csharp)
 - [Go](https://github.com/advanced-security/demo-golang)
 - [Java](https://github.com/advanced-security/demo-java)
-- [JavaScript](https://github.com/advanced-security/demo-javascript)
+- [JavaScript](https://github.com/github/code-scanning-javascript-demo)
 - [Python](https://github.com/advanced-security/demo-python)
 - [PHP](https://github.com/advanced-security/demo-php)
 
